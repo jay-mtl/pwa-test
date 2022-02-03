@@ -1,8 +1,0 @@
-angular/pwa/Application.java
- angular.pwa.Application
-angular/pwa/LauncherActivity.java
- angular.pwa.LauncherActivity
-angular/pwa/DelegationService.java
- angular.pwa.DelegationService
-angular/pwa/BuildConfig.java
- angular.pwa.BuildConfig

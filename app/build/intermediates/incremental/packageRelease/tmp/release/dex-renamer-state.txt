@@ -1,4 +1,0 @@
-#Thu Feb 03 11:40:36 CET 2022
-base.0=/Users/jc/Documents/Persos/MoonShotLabs/Angular/angular-pwa/app/build/intermediates/dex/release/minifyReleaseWithR8/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
